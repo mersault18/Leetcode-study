@@ -17,12 +17,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0237-delete-node-in-a-linked-list](https://github.com/mersault18/Leetcode-study/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/mersault18/Leetcode-study/tree/master/0908-middle-of-the-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mersault18/Leetcode-study/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/mersault18/Leetcode-study/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/mersault18/Leetcode-study/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/mersault18/Leetcode-study/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mersault18/Leetcode-study/tree/master/0234-palindrome-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/mersault18/Leetcode-study/tree/master/2573-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,4 +47,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/mersault18/Leetcode-study/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/mersault18/Leetcode-study/tree/master/0234-palindrome-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mersault18/Leetcode-study/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/mersault18/Leetcode-study/tree/master/2573-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/mersault18/Leetcode-study/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
