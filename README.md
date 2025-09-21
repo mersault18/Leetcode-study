@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/mersault18/Leetcode-study/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/mersault18/Leetcode-study/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/mersault18/Leetcode-study/tree/master/0404-sum-of-left-leaves) |
+| [0988-flip-equivalent-binary-trees](https://github.com/mersault18/Leetcode-study/tree/master/0988-flip-equivalent-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/mersault18/Leetcode-study/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/mersault18/Leetcode-study/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/mersault18/Leetcode-study/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/mersault18/Leetcode-study/tree/master/0404-sum-of-left-leaves) |
+| [0988-flip-equivalent-binary-trees](https://github.com/mersault18/Leetcode-study/tree/master/0988-flip-equivalent-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/mersault18/Leetcode-study/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -104,5 +106,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/mersault18/Leetcode-study/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/mersault18/Leetcode-study/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/mersault18/Leetcode-study/tree/master/0404-sum-of-left-leaves) |
+| [0988-flip-equivalent-binary-trees](https://github.com/mersault18/Leetcode-study/tree/master/0988-flip-equivalent-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/mersault18/Leetcode-study/tree/master/1005-univalued-binary-tree) |
 <!---LeetCode Topics End-->
